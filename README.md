@@ -1,9 +1,11 @@
 # Nex
 
-<samp>backend engineering • fullstack development • ai systems</samp>  
-<samp>developing scalable software, modern web platforms, and intelligent automation</samp>
+<samp>
+AI engineer with experience in machine learning systems, model deployment, and AI infrastructure. 
+Interested in building production-ready AI solutions, optimizing model performance, 
+and integrating intelligent systems into real-world platforms.
+</samp>
 <br>
 
-```txt
-nex@dev:~$ echo "engineering reliable systems."
-```
+```bash
+nex@core:~$ deploy ai-system --prod
